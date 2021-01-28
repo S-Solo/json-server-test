@@ -1,6 +1,7 @@
 {
     "users": [
         {
+            "id": 0,
             "name": "John",
             "surname": "Doe",
             "age": 43
